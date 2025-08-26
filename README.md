@@ -1,8 +1,8 @@
 # OrangeHRM Cypress Automation
 
 ## 📌 Deskripsi
-Project ini adalah tugas QA Automation menggunakan **Cypress** untuk fitur **Login OrangeHRM**.  
-Test case dibuat berdasarkan file Excel (Scenario / Steps / Expected) dan diimplementasikan dalam format `it()` block Cypress.
+Project ini adalah Quiz3 QA Automation menggunakan **Cypress** untuk fitur **Login OrangeHRM**.  
+Test case dibuat berdasarkan file Excel yang diimplementasikan dalam format `it()` block Cypress.
 
 ## 🧪 Test Case
 - Login dengan username & password valid
