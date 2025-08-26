@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi
 Project ini adalah Quiz3 QA Automation menggunakan **Cypress** untuk fitur **Login OrangeHRM**.  
-Test case dibuat berdasarkan file Excel yang diimplementasikan dalam format `it()` block Cypress.
+Test case dibuat berdasarkan file Excel yang diimplementasikan dalam format `it()` block Cypress dan intercept.
 
 ## 🧪 Test Case
 - Login dengan username & password valid
@@ -11,4 +11,5 @@ Test case dibuat berdasarkan file Excel yang diimplementasikan dalam format `it(
 - Login tanpa username & password
 - Login tanpa username
 - Login tanpa password
+
 
